@@ -1,5 +1,6 @@
 # DSS-energy-change
 
-Final project from Tufts' Data Science for Sustainability course.
+Final project for Tufts MS in Data Science Graduate Course: DS-143 Data Science for Sustainability.
 
-General topic: Assessing impact of academic research on UN's Sustainable Development Goal (SDG) 7.
+Topic: 
+Assessing impact of academic research on UN's Sustainable Development Goal (SDG) 7.
